@@ -37,7 +37,6 @@ export default defineConfig({
     headless: process.env.CI ? true : false
 
 
-
   },
 
   /* Configure projects for major browsers */
