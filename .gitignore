@@ -3,3 +3,11 @@ node_modules/
 /playwright-report/
 /playwright/.cache/
 .idea
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
